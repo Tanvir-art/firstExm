@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\exm\thirdProblem\thirdProblem\bin\Debug\netcoreapp3.0\thirdProblem.exe
+C:\Users\HP\Desktop\exm\thirdProblem\thirdProblem\bin\Debug\netcoreapp3.0\thirdProblem.deps.json
+C:\Users\HP\Desktop\exm\thirdProblem\thirdProblem\bin\Debug\netcoreapp3.0\thirdProblem.runtimeconfig.json
+C:\Users\HP\Desktop\exm\thirdProblem\thirdProblem\bin\Debug\netcoreapp3.0\thirdProblem.runtimeconfig.dev.json
+C:\Users\HP\Desktop\exm\thirdProblem\thirdProblem\bin\Debug\netcoreapp3.0\thirdProblem.dll
+C:\Users\HP\Desktop\exm\thirdProblem\thirdProblem\bin\Debug\netcoreapp3.0\thirdProblem.pdb
+C:\Users\HP\Desktop\exm\thirdProblem\thirdProblem\obj\Debug\netcoreapp3.0\thirdProblem.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\exm\thirdProblem\thirdProblem\obj\Debug\netcoreapp3.0\thirdProblem.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\exm\thirdProblem\thirdProblem\obj\Debug\netcoreapp3.0\thirdProblem.AssemblyInfo.cs
+C:\Users\HP\Desktop\exm\thirdProblem\thirdProblem\obj\Debug\netcoreapp3.0\thirdProblem.dll
+C:\Users\HP\Desktop\exm\thirdProblem\thirdProblem\obj\Debug\netcoreapp3.0\thirdProblem.pdb

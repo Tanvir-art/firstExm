@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\exm\exam\exam\bin\Debug\netcoreapp3.0\exam.exe
+C:\Users\HP\Desktop\exm\exam\exam\bin\Debug\netcoreapp3.0\exam.deps.json
+C:\Users\HP\Desktop\exm\exam\exam\bin\Debug\netcoreapp3.0\exam.runtimeconfig.json
+C:\Users\HP\Desktop\exm\exam\exam\bin\Debug\netcoreapp3.0\exam.runtimeconfig.dev.json
+C:\Users\HP\Desktop\exm\exam\exam\bin\Debug\netcoreapp3.0\exam.dll
+C:\Users\HP\Desktop\exm\exam\exam\bin\Debug\netcoreapp3.0\exam.pdb
+C:\Users\HP\Desktop\exm\exam\exam\obj\Debug\netcoreapp3.0\exam.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\exm\exam\exam\obj\Debug\netcoreapp3.0\exam.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\exm\exam\exam\obj\Debug\netcoreapp3.0\exam.AssemblyInfo.cs
+C:\Users\HP\Desktop\exm\exam\exam\obj\Debug\netcoreapp3.0\exam.dll
+C:\Users\HP\Desktop\exm\exam\exam\obj\Debug\netcoreapp3.0\exam.pdb
